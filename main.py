@@ -61,12 +61,12 @@ page = st.sidebar.radio(
 # MENU DATA
 # --------------------------------------------------
 menu_items = [
-    {"name": "Signature Latte", "category": "Beverage", "price": 12, "image": "assets/latte.jpg"},
-    {"name": "Iced Americano", "category": "Beverage", "price": 10, "image": "assets/americano.jpg"},
-    {"name": "Chocolate Cake", "category": "Dessert", "price": 8, "image": "assets/cake.jpg"},
-    {"name": "Nasi Goreng", "category": "Local Food", "price": 9, "image": "assets/nasi.jpg"},
-    {"name": "Chicken Chop", "category": "Western Food", "price": 15, "image": "assets/chicken.jpg"},
-    {"name": "Carbonara Pasta", "category": "Western Food", "price": 14, "image": "assets/pasta.jpg"},
+    {"name": "Signature Latte", "category": "Beverage", "price": 12, "image": "images/latte.jpg"},
+    {"name": "Iced Americano", "category": "Beverage", "price": 10, "image": "images/americano.jpg"},
+    {"name": "Chocolate Cake", "category": "Dessert", "price": 8, "image": "images/cake.jpg"},
+    {"name": "Nasi Goreng", "category": "Local Food", "price": 9, "image": "images/nasi.jpg"},
+    {"name": "Chicken Chop", "category": "Western Food", "price": 15, "image": "images/chicken.jpg"},
+    {"name": "Carbonara Pasta", "category": "Western Food", "price": 14, "image": "images/pasta.jpg"},
 ]
 
 # --------------------------------------------------
